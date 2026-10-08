@@ -73,7 +73,7 @@ git commit
 
 ```
 
-![Скриншот: git commit]( https://github.com/1243atradfafaf-collab/git/blob/main/гндквытпоавтиппвоптоивоивтпивпивпивпивпи.PNG )
+![Скриншот: git commit]( https://github.com/1243atradfafaf-collab/git/blob/main/Снимок%20экрана%202026-10-08%20142937.png )
 
 ---
 
