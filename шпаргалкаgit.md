@@ -55,7 +55,7 @@ git add
 
 ```
 
-![Скриншот: git add]( )
+![Скриншот: git add](https://github.com/1243atradfafaf-collab/git/blob/main/Снимокasdf.PNG )
 
 ---
 
@@ -73,7 +73,7 @@ git commit
 
 ```
 
-![Скриншот: git commit]( )
+![Скриншот: git commit]( https://github.com/1243atradfafaf-collab/git/blob/main/гндквытпоавтиппвоптоивоивтпивпивпивпивпи.PNG )
 
 ---
 
@@ -89,7 +89,7 @@ git log
 
 ```
 
-![Скриншот: git log]( )
+![Скриншот: git log](https://github.com/1243atradfafaf-collab/git/blob/main/m%20mmmmmm.PNG)
 
 Нажатие клавиши ‘q’ возвращает в исходное окно терминала.
 
